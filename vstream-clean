@@ -1,0 +1,12 @@
+RPC=https://api.mainnet-beta.solana.com
+WALLET=/home/vectorstream/.config/solana/id.json
+
+MINT_BASE=BboHNcb3A2rp367XpDqwiLBaRGEfQYu19csYXvB3ieHX
+MINT_QUOTE=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v  # USDC
+
+INITIAL_PRICE=0.01
+PRICE_LOWER=0.008
+PRICE_UPPER=0.012
+
+BASE_AMOUNT=100000
+QUOTE_AMOUNT=1000
